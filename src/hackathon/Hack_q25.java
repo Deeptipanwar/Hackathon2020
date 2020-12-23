@@ -23,8 +23,7 @@ public class Hack_q25 {
 			mid=(st+end)/2;
 		}
 		if ( st > end ) {
-	          System.out.println(search + " is not found.\n");
-	          }
+	          System.out.println(search + " is not found.\n");}
 	}
 
 	public static void main(String[] args) {
